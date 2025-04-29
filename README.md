@@ -14,3 +14,5 @@ O objetivo principal é assegurar a detecção de intrusões e alterações lumi
 Realize o teste através dos botões e definindo a intensidade no fotoresistor.
 
 https://www.tinkercad.com/things/9hyoFkphI9N-copy-of-projeto-sistema-de-alarme/editel?sharecode=6Ukn0cti98JYiRK521fm0kS4lkuIgRvC6_lCuv2uYLg
+![Copy of Projeto sistema de alarme](https://github.com/user-attachments/assets/e5313336-7965-4d26-8b50-4c927cb794ac)
+
